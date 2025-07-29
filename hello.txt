@@ -1,2 +1,4 @@
 Hello Git from VS Code!
 This is a new feature!
+Line from feature-branch
+
